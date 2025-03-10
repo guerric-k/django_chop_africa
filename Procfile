@@ -1,1 +1,1 @@
-web: gunicorn my_project.wsgi
+web: gunicorn chop_africa.wsgi
