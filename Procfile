@@ -1,1 +1,1 @@
-web: gunicorn django_chop_africa.wsgi
+web: gunicorn chop_africa.wsgi
